@@ -40,8 +40,8 @@
         <BeanShellSampler guiclass="BeanShellSamplerGui" testclass="BeanShellSampler" testname="BeanShell Sampler" enabled="true">
           <stringProp name="BeanShellSampler.query">//syntax for printing
 log.info(&quot;I am printing&quot;);
-var a=12;
-var b=13;
+var a=10;
+var b=14;
 var sum=a+b;
 log.info(&quot;Result is&quot;+sum);
 
